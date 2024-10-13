@@ -3,6 +3,11 @@ body{
     padding: 0px;
     box-sizing: border-box;
     background-color: rgba(218, 228, 228, 0.63);
+    height: 800px;
+    background-image: url(images/mountain.jpg);
+    background-position: center;
+    background-size: cover;
+
 }
 .header{
     display: flex;
@@ -13,4 +18,12 @@ body{
     background-color: gold;
     height: 80px;
     font-weight: bold;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.enter-button{
+    font-size: 30px;
 }
