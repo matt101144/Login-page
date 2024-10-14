@@ -1,3 +1,4 @@
+/* css for homepage */
 body{
     margin: 0px;
     padding: 0px;
@@ -26,4 +27,16 @@ body{
 }
 .enter-button{
     font-size: 30px;
+}
+/* below css for login page */
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-title{
+    font-size: 40px;
+    font-weight: bold;
+
 }
