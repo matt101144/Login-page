@@ -31,9 +31,15 @@ body{
 /* below css for login page */
 .form-container{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    flex-direction: column;
+    width: 90%;
+    max-width: 490px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    text-align: center;
+    border: 6px solid black;
+    backdrop-filter: blur(20px);
 }
 .form-title{
     font-size: 40px;
