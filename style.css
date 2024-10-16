@@ -67,3 +67,6 @@ input{
     align-self: center;
     justify-content: center;
 }
+.forgot-password-link{
+    margin-right: 12px;
+}
