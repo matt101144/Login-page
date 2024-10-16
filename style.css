@@ -60,3 +60,9 @@ input{
     margin: 10px;
     
 }
+.login-button{
+    width: 100px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
