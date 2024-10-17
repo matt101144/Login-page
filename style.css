@@ -62,10 +62,13 @@ input{
     
 }
 .login-button{
-    width: 100px;
+    width: 120px;
     display: flex;
     align-self: center;
     justify-content: center;
+    height: 30px;
+    align-items: center;
+    font-size: 18px;
 }
 .forgot-password-link{
     margin-right: 12px;
