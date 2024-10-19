@@ -1,4 +1,8 @@
-
+.page-1{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .page-2{
     margin: 0px;
     padding: 0px;
@@ -72,4 +76,8 @@ input{
 }
 .forgot-password-link{
     margin-right: 12px;
+}
+.loginform{
+    display: flex;
+    flex-direction: column;
 }
