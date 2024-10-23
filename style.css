@@ -31,6 +31,9 @@
 }
 .enter-button{
     font-size: 30px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
 }
 /* below css for login page */
 .form-container{
