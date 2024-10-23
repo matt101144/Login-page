@@ -34,6 +34,7 @@
     background-color: blue;
     color: white;
     padding: 10px;
+    cursor: pointer;
 }
 /* below css for login page */
 .form-container{
