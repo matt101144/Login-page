@@ -88,6 +88,10 @@ input{
     display: flex;
     flex-direction: column;
 }
+
+
+
+
 .login-cred{
     display: flex;
     justify-content: center;
@@ -95,4 +99,9 @@ input{
     gap: 40px;
     font-size: 20px;
     margin-top: 50px;
+}
+.user-message{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
 }
