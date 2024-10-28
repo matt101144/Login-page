@@ -105,3 +105,8 @@ input{
     justify-content: center;
     font-weight: bold;
 }
+.credentials-prompt {
+    color: #020202;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
