@@ -106,7 +106,7 @@ input{
     font-weight: bold;
 }
 .credentials-prompt {
-    color: #020202;
+    color: black;
     font-size: 0.9em;
     margin-bottom: 10px;
 }

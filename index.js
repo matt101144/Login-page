@@ -11,7 +11,7 @@ document.querySelector("form").addEventListener("submit", function(event) {
 
     // Validate email and password
     if (emailInput === correctEmail && passwordInput === correctPassword) {
-        // Redirect to the success page if login is successful
+    
         window.location.href = "success.html";
     } else {
         message.style.color = "red";
